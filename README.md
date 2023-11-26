@@ -1,4 +1,4 @@
-- 👋 Hi :), I’m @sathvika8522 computer science student
+- 👋 Hi :), I’m @sathvika computer science student
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning secret ;)
 - 💞️ I’m looking to collaborate on open source project
